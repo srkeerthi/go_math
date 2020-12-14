@@ -1,5 +1,5 @@
 package geometry
 
-func cubevolume(n int) int {
+func Cubevolume(n int) int {
 	return n * n * n
 }
